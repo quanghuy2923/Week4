@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\bin\Debug\SimpleTCP.dll
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.Form1.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\ADMIN\Downloads\laptrinhmang\TCP\TCP\obj\Debug\TCP.pdb
